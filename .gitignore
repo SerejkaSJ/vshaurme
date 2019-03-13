@@ -1,2 +1,4 @@
 .idea
 .idea/*.*ml
+.vscode
+.DS_Store
