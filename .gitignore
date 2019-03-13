@@ -1,5 +1,4 @@
 .idea
-.idea/*.*ml
 .vscode
 .DS_Store
 *.sqlite3 
